@@ -1,3 +1,7 @@
+
+// Java LinkedList
+
+
 import java.util.Iterator;
 import java.util.LinkedList;
 
